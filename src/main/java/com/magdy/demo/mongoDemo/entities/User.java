@@ -1,25 +1,18 @@
 package com.magdy.demo.mongoDemo.entities;
 
+import org.springframework.data.mongodb.core.mapping.Document;
+
 import javax.persistence.Column;
-import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
-import javax.persistence.Table;
 
-@Entity
-@Table(name = "users")
+@Document("users")
 public class User {
 
     @Id
-    @GeneratedValue(strategy = GenerationType.AUTO)
-    @Column(name = "id", nullable = false)
     private Integer id;
-
-    @Column(name="name",nullable = false)
     private String name;
-
-    @Column(name="mail",nullable = false)
     private String mail;
 
     public Integer getId() {
