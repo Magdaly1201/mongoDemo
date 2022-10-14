@@ -5,30 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88d7ffba-fbb1-44f5-8e40-c87ac30bd930" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/magdy/demo/mongoDemo/MongoDemoApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/magdy/demo/mongoDemo/controllers/UserRestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/magdy/demo/mongoDemo/entities/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/magdy/demo/mongoDemo/entities/UserResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/magdy/demo/mongoDemo/repositories/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/magdy/demo/mongoDemo/services/UserServices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/magdy/demo/mongoDemo/PostgresqlDemoApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/magdy/demo/postgresqlDemo/PostgresqlDemoApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/magdy/demo/postgresqlDemo/controllers/UserRestController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/magdy/demo/postgresqlDemo/entities/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/magdy/demo/postgresqlDemo/entities/UserResponse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/magdy/demo/postgresqlDemo/repositories/UserRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/magdy/demo/postgresqlDemo/services/UserServices.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/db.migration/V1__init.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/magdy/demo/postgresqlDemo/PostgresqlDemoApplicationTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_3_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_postgresql_postgresql_42_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/postgresqlDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/postgresqlDemo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
